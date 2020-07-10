@@ -1,1 +1,3 @@
-
+The functions work properly and can be imported, Its nice and easy to read,
+but one thing I notice is that the functions are in their own seperate classes, its nice to have the in the same place to make things easier to manage.
+I was able to understand what it was doing and was also able to make simple changes and additions of my own
